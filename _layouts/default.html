@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title and page.url != "/" %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <style>
+    :root {
+      --bg-dark: #111213;
+      --fg-light: #d6d6d6;
+      --fg-dim: #8a8a8a;
+      --matrix-green: #39FF14;
+    }
+    html {
+      background: var(--bg-dark);
+    }
+    body {
+      padding: 0 10px;
+      margin: 50px auto;
+      max-width: 650px;
+      background-color: var(--bg-dark);
+      color: var(--fg-light);
+      font-family:
+        "SF Mono", "SFMono-Regular", ui-monospace,
+        Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 0.9rem;
+      line-height: 1.4;
+      -webkit-font-smoothing: antialiased;
+    }
+    main {
+      max-width: 42em;
+      margin: 0 auto;
+      padding-top: 20px;
+    }
+    h1 {
+      font-size: 1em;
+      font-weight: bold;
+      margin: 0 0 1.4em;
+      color: var(--fg-light);
+    }
+    h2 {
+      font-size: 1em;
+      font-weight: bold;
+      margin: 2em 0 1em;
+    }
+    p {
+      margin: 0 0 1.4em;
+    }
+    a {
+      color: var(--matrix-green);
+      text-decoration: none;
+    }
+    a:hover,
+    a:focus {
+      text-decoration: underline;
+    }
+    ul.posts {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    ul.posts li {
+      margin-bottom: 0.9em;
+    }
+    ul.posts .date {
+      color: var(--fg-dim);
+      margin-left: 0.6em;
+      white-space: nowrap;
+    }
+    nav.links {
+      margin-top: 3em;
+    }
+    nav.links a {
+      margin-right: 1.4em;
+    }
+    footer {
+      margin-top: 4em;
+      color: var(--fg-dim);
+      font-size: 0.85em;
+    }
+    .post-date {
+      color: var(--fg-dim);
+      margin-bottom: 2em;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    {{ content }}
+    <footer>Rohan Macherla &copy; {{ site.time | date: "%Y" }}</footer>
+  </main>
+</body>
+</html>
