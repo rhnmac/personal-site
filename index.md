@@ -20,4 +20,6 @@ I live in NYC. Outside of work I'm into sailing and photography.
 <nav class="links">
   <a href="/blog/">Blog</a>
   <a href="mailto:rhnmac@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/rohanmacherla">LI</a>
+  <a href="https://www.instagram.com/rhnmac">Instagram</a>
 </nav>
