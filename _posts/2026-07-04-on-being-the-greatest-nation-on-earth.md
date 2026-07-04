@@ -1,7 +1,7 @@
-    ---
-    layout: post
-    title: "On being the greatest nation on earth."
-    ---
+---
+layout: post
+title: "On being the greatest nation on earth."
+---
 
 # On being the greatest nation on earth.
 
