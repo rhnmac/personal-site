@@ -2,9 +2,6 @@
 layout: post
 title: "On being the greatest nation on earth."
 ---
-
-# On being the greatest nation on earth.
-
 I'm usually the most patriotic person amongst my friends. Often, I'm asked, "Why? Why do you love this country so much?" If there was ever a time to put it in writing, today is the day, as we celebrate 250 years of independence.
 
 The United States was founded on a set of ideals, a choice that remains unique to this day. Most countries are founded on the basis of an ethnic group or a set of religious beliefs. Not us. We chose to hold "these truths to be self-evident, that all men are created equal." That we are "endowed with certain unalienable rights."
