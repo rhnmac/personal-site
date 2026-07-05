@@ -8,7 +8,7 @@ title: Rohan Macherla
 I lead operations at Valthos.
 
 Before Valthos, I worked on special projects and business operations at Anduril
-Industries, where I've led work across pricing, contract strategy,
+Industries, where I led work across pricing, contract strategy,
 capital raises, M&A integration, and manufacturing operations.
 
 Before Anduril, I was an investment banking analyst at Goldman Sachs
