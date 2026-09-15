@@ -12,4 +12,4 @@ What makes America exceptional is not what we are today or what we were in the p
 
 No other nation on earth so deeply believes in a set of ideas like we do. No other nation on earth understands its flaws and fights to correct them:  through the winter at Valley Forge; ourselves at Gettysburg; from Seneca Falls to the steps of the Capitol; on the beaches of Normandy; and on a bridge in Selma. We've always kept fighting for our ideas.
 
-America is a promise not yet fulfilled. It is a work in progress, a nation inured to change. Our responsibility as Americans is to question, to criticize, to protest, to push our country closer and closer to those ideals. We will never be perfect. It is that pursuit of perfection that makes us great.
+America is a promise not yet fulfilled. It is a work in progress, a nation inured to change. Our responsibility as Americans is to question, to criticize, to protest, to push our country closer and closer to those ideals. We will never be perfect, but it is that pursuit of perfection that makes us great the greatest nation on earth.
